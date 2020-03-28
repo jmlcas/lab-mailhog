@@ -1,1 +1,4 @@
-Ver artículo en URL: https://labarta.es/mailhog-interceptar-correos-trabajando-en-local-con-docker
+
+Ver artículo en URL:  
+https://labarta.es/mailhog-interceptar-correos-trabajando-en-local-con-docker
+
